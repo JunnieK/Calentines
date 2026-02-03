@@ -14,7 +14,7 @@
         <button id="No">No</button>
     </div>
 
-    <style>ss
+    <style>
         h1 {
             font-size: 50px;
         }
